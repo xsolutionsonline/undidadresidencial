@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395809056467",
+    "project_id": "residentialunit-34f67",
+    "storage_bucket": "residentialunit-34f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395809056467:android:9d03b159eae111c69d5626",
+        "android_client_info": {
+          "package_name": "com.example.residentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395809056467-g4aklojsobv3k4l5rgrr6d767g8mf5vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgQBLeoXUQGttYM3eJ09hlaV7yjsx59w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395809056467-g4aklojsobv3k4l5rgrr6d767g8mf5vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
